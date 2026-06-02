@@ -110,7 +110,7 @@ Pie chart + dual-axis chart comparing Consumer, Corporate, and Home Office segme
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/sales-eda-project.git
+git clone https://github.com/mishrarishi1172003/sales-eda-project.git
 cd sales-eda-project
 
 # 2. Install dependencies
@@ -138,11 +138,11 @@ jupyter notebook sales_eda_analysis.ipynb
 
 ## 👤 About Me
 
-**[Your Name]** — Aspiring Data Analyst passionate about turning raw data into business decisions.
+**[Rishabh Mishra]** — Aspiring Data Analyst passionate about turning raw data into business decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mishrarishi1172003)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/mishrarishi1172003)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:mishrarishi1172003@gmail.com)
 
 ---
 
